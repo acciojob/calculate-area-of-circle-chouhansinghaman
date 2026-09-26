@@ -3,7 +3,7 @@
             let radius = prompt("Enter the radius of the circle:");
             // write you code here and display the result to 
 
-	 const circleArea = 2 * Math.PI * radius
+	 const circleArea = Math.PI * radius * radius
 
 return circleArea.toFixed(2)
            
